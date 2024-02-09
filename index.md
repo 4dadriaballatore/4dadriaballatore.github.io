@@ -1,4 +1,4 @@
-## La 4ªD Scienze Applicate del Liceo Adria-Ballatore Presenta...
+
 ### Futuri sostenibili nelle teorie della comunicazione sui Social!
 >I nostri Lavori:
 ---
