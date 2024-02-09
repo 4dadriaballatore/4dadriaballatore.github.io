@@ -2,18 +2,12 @@
 name: Deploy static content to Pages
 
 # Theme
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
     
-#title and stuff
-title: [4D Liceo Adria Ballatore]
-description: [I nostri lavori.]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -50,3 +44,8 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+# Themes
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
