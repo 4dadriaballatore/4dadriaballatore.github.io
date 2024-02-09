@@ -1,11 +1,8 @@
 # Site settings
 title: 4ªD Scienze Applicate
-author: 
-  name: La classe 4ªD
-description: 
+description: Liceo Adria Ballatore
 # Colors
-navbar-col: #6b2330
-navbar-text-col: #ffffff
+
 # Build settings
 
 remote_theme: jekyll/minima
