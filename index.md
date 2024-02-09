@@ -1,6 +1,6 @@
-
+# La nostra classe presenta:
 ## Futuri sostenibili nelle teorie della comunicazione sui Social!
->I nostri Lavori:
+### I nostri Lavori:
 
 - Ginevra Maltese - [Progetto](https://drive.google.com/file/d/1b2XyJx54bYj1KJBeZ0dVDeIfPd3qNcVX/view?usp=sharing)
 - Edward Passeri - [Progetto](https://drive.google.com/file/d/11Wj1gjIKSYoVvdDQ8f_iPHJWnWgF7xZQ/view?usp=sharing)
