@@ -1,6 +1,6 @@
 # La 4ªD Scienze Applicate del Liceo Adria-Ballatore Presenta...
 ##### Futuri sostenibili nelle teorie della comunicazione sui Social!
->"“Il futuro appartiene a coloro che si preparano per esso oggi.” **-Malcom X**""
+>“Il futuro appartiene a coloro che si preparano per esso oggi.” **-Malcom X**"
 ---
 I lavori dei nostri compagni:
 - Ginevra Maltese - [Progetto](https://drive.google.com/file/d/1b2XyJx54bYj1KJBeZ0dVDeIfPd3qNcVX/view?usp=sharing)
@@ -17,3 +17,4 @@ I lavori dei nostri compagni:
 - Paolo Giacalone - [Progetto](https://drive.google.com/file/d/1R65t2UYj6lHK3WzzXjA-x5SkpO7KvHjI/view?usp=sharing)
 - Samuele Cusumano - [Progetto](https://docs.google.com/presentation/d/1tq4MvlYJKnE6D-ue-jtQC5o-m69GZKcP/edit?usp=sharing&ouid=109208282203439835585&rtpof=true&sd=true)
 - Valerio Tancredi - [Progetto](https://docs.google.com/presentation/d/1Zk_hy06EWhe2K8czf69SL6yYSgLifG3d/edit?usp=sharing&ouid=109208282203439835585&rtpof=true&sd=true)
+- Enzo Uddin - [Progetto](https://docs.google.com/presentation/d/1i0MZ4EOe6dfpxahwvnJk2dAGy7uwLWnZ/edit?usp=sharing&ouid=109208282203439835585&rtpof=true&sd=true)
