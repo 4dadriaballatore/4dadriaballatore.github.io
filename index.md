@@ -2,7 +2,7 @@
 
 ## I nostri lavori realizzati dalla classe 4ªD durante le attività del progetto "Orienta Liceo":
 
-Il sito è stato realizzato dagli alunni della 4 D opzione scienze applicate per coronare e dare una forma finale alle riflessioni, pensieri e ricerche di ogni singolo studente. Il sito offre una panormamica dei lavori realizzati dai singoli riguardo al tema sui futuri sostenibili nelle teorie della comunicazione sui social.
+Il sito è stato realizzato dagli alunni della 4ªD Scienze Applicate per **coronare** e dare **una forma finale** alle riflessioni, pensieri e ricerche di ogni singolo studente. Il sito offre una panormamica dei lavori realizzati dai singoli riguardo al tema sui **futuri sostenibili nelle teorie della comunicazione sui social.**
 
 - Ginevra Maltese - [Progetto](https://drive.google.com/file/d/1b2XyJx54bYj1KJBeZ0dVDeIfPd3qNcVX/view?usp=sharing)
 - Edward Passeri - [Progetto](https://drive.google.com/file/d/11Wj1gjIKSYoVvdDQ8f_iPHJWnWgF7xZQ/view?usp=sharing)
