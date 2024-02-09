@@ -1,6 +1,6 @@
-### I nostri lavori realizzati dalla classe 4ªD durante le attività del progetto "Orienta Liceo":
-
 ![Immagine donna che guarda i social](imagebanner.jpg)
+
+## I nostri lavori realizzati dalla classe 4ªD durante le attività del progetto "Orienta Liceo":
 
 Il sito è stato realizzato dagli alunni della 4 D opzione scienze applicate per coronare e dare una forma finale alle riflessioni, pensieri e ricerche di ogni singolo studente. Il sito offre una panormamica dei lavori realizzati dai singoli riguardo al tema sui futuri sostenibili nelle teorie della comunicazione sui social.
 
