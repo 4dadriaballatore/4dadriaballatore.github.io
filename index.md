@@ -12,3 +12,8 @@ I lavori dei nostri compagni:
 - Melissa Falco - [Progetto](https://drive.google.com/file/d/17mY4G0m5kDJ-BXhgAuBEehNzO992ppGk/view?usp=sharing)
 - Alessia Gancitano - [Progetto](https://drive.google.com/file/d/1fL2cEFPvIDTFgpze2XKoUtGUd_wgtwd0/view?usp=sharing)
 - Giuseppe La Grutta - [Progetto](https://drive.google.com/file/d/1pE_xu3o9YnUUu5TYkaJ6Aaz_tnBjyH29/view?usp=sharing)
+- Delia Asaro - [Progetto](https://drive.google.com/file/d/1ZXbKnN6mnB-a0K1krDZyCx7-k9r450WF/view?usp=sharing)
+- Jonathan Ferreri - [Progetto](https://drive.google.com/file/d/1KE-7ZY3nL0eiIOqgdviW0Gm0VVoAdC5M/view?usp=sharing)
+- Paolo Giacalone - [Progetto](https://drive.google.com/file/d/1R65t2UYj6lHK3WzzXjA-x5SkpO7KvHjI/view?usp=sharing)
+- Samuele Cusumano - [Progetto](https://docs.google.com/presentation/d/1tq4MvlYJKnE6D-ue-jtQC5o-m69GZKcP/edit?usp=sharing&ouid=109208282203439835585&rtpof=true&sd=true)
+- Valerio Tancredi - [Progetto](https://docs.google.com/presentation/d/1Zk_hy06EWhe2K8czf69SL6yYSgLifG3d/edit?usp=sharing&ouid=109208282203439835585&rtpof=true&sd=true)
