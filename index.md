@@ -1,4 +1,9 @@
-# La nostra classe presenta:
+    
+---
+layout: home 
+title: La nostra classe presenta:
+---
+
 ## Futuri sostenibili nelle teorie della comunicazione sui Social!
 ### I nostri Lavori:
 
