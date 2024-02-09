@@ -22,3 +22,4 @@ Il sito è stato realizzato dagli alunni della 4ªD Scienze Applicate per **coro
 - Giuseppe Marrone - [Progetto](https://drive.google.com/file/d/1SPT4Mk2c-Ck4DE2KdC5SK8e3hlkXUwX-/view?usp=sharing)
 - Enrico Bondesan - [Progetto](https://drive.google.com/file/d/138wKNl0sny3Q4za4bGCpTF7hdwl8kQ0Q/view?usp=sharing)
 - Lorenzo Scaduto - [Progetto](https://drive.google.com/file/d/16P9Xq6sK4Y02tuKrNKkoUgLhM9FV_U84/view?usp=sharing)
+- Azzurra Manciaracina - [Progetto](https://onedrive.live.com/edit?id=4471833ACEA76550!515&resid=4471833ACEA76550!515&ithint=file%2cpptx&authkey=!AONegCZAhiBxKAY&wdo=2&cid=4471833acea76550)
