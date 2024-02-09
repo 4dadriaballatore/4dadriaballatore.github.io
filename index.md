@@ -19,3 +19,4 @@ Il sito è stato realizzato dagli alunni della 4 D opzione scienze applicate per
 - Samuele Cusumano - [Progetto](https://docs.google.com/presentation/d/1tq4MvlYJKnE6D-ue-jtQC5o-m69GZKcP/edit?usp=sharing&ouid=109208282203439835585&rtpof=true&sd=true)
 - Valerio Tancredi - [Progetto](https://docs.google.com/presentation/d/1Zk_hy06EWhe2K8czf69SL6yYSgLifG3d/edit?usp=sharing&ouid=109208282203439835585&rtpof=true&sd=true)
 - Enzo Uddin - [Progetto](https://docs.google.com/presentation/d/1i0MZ4EOe6dfpxahwvnJk2dAGy7uwLWnZ/edit?usp=sharing&ouid=109208282203439835585&rtpof=true&sd=true)
+- Giuseppe Marrone - [Progetto](https://drive.google.com/file/d/1SPT4Mk2c-Ck4DE2KdC5SK8e3hlkXUwX-/view?usp=sharing)
