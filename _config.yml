@@ -1,6 +1,9 @@
 # Site settings
 title: 4ªD Scienze Applicate
-description: "I nostri Lavori."
 
+# Colors
+navbar-col: #6b2330
+navbar-text-col: #ffffff
 # Build settings
+
 remote_theme: jekyll/minima
