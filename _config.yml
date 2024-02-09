@@ -1,0 +1,6 @@
+# Site settings
+title: 4ªD Scienze Applicate
+description: "I nostri Lavori."
+
+# Build settings
+remote_theme: jekyll/minima
