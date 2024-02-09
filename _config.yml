@@ -1,6 +1,8 @@
 # Site settings
 title: 4ªD Scienze Applicate
-
+author: 
+  name: La classe 4ªD
+description: 
 # Colors
 navbar-col: #6b2330
 navbar-text-col: #ffffff
@@ -8,5 +10,3 @@ navbar-text-col: #ffffff
 
 remote_theme: jekyll/minima
 
-minima: 
-  skin: dark 
