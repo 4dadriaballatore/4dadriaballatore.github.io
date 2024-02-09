@@ -1,4 +1,4 @@
-![Immagine donna che guarda i social](imagebanner.jpg)
+![Immagine donna che guarda i social](alt2image.jpg)
 
 ## I lavori realizzati dalla classe 4ªD durante le attività del progetto "Orienta Liceo":
 
